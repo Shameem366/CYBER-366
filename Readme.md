@@ -4,14 +4,14 @@
 ### Setup 
 1. Get Session
    <br>
-<a href='https://izumiqr-dy0ufqtx.b4a.run/pair' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@wpbot361/Cyber-Pair-Code#main.sh' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
  
 ### For getting session in Indian number
 1.  Termux
     <br>
 <a href='https://www.mediafire.com/file/iogcejb8629yv63/base.apk/file' target="_blank"><img alt='Install Termux' src='https://img.shields.io/badge/Install Termux-V2100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+xc
 2. download termux and run the command
     ```
    pkg update && pkg install -y nodejs git && git clone https://github.com/sataniceypz/izumi-qr.git && cd izumi-qr && npm install && node index.js
@@ -104,7 +104,7 @@
   ```
 - Stop
   ```
-  pm2 delete izumi
+  pm2 delete CYBER-366 
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
