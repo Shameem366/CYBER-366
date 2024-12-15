@@ -25,7 +25,7 @@ async function loadSession() {
   if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
     if (!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!');
     const sessdata = config.SESSION_ID;
-    const Cronez = sessdata.replace('𝐂𝐫𝐨𝐧𝐞𝐱𝐁𝐨𝐭~', '');
+    const Cronez = sessdata.replace('AjsalSparky~', '');
     const filer = File.fromURL(`https://mega.nz/file/${Cronez}`);
     filer.download((err, data) => {
       if (err) throw err;
@@ -88,8 +88,8 @@ require("./plugins/" + plugin);
 console.log('Plugins Installed')
 console.log('Connected')
       
-        let AmeenInt = '120363232826409191@g.us'
-        let Cronezz = '*BOT CONNECTED✅*\n*RUNNING ON:* RENDER'
+        let AmeenInt = '120363379663594240@g.us'
+        let Cronezz = '*BOT CONNECTED✅*\n*RUNNING ON:* RENDER\n\n\n*© ᴀxʟ-ꜱᴩᴀʀᴋy*'
         conn.sendMessage(AmeenInt, { 
         text: Cronezz
   })
